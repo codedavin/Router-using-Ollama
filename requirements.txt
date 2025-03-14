@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+scikit-learn
+langchain
+ollama
+mysql-connector-python
+streamlit
