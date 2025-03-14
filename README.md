@@ -12,5 +12,5 @@ A chatbot that answers static, dynamic, and SQL queries using web scraping, Lang
 ## Setup
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/codedavin/davinators-query-bot.git
-   cd davinators-query-bot
+   git https://github.com/codedavin/Router-using-Ollama
+  
